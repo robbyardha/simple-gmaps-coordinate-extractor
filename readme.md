@@ -18,6 +18,7 @@ npm install xlsx node-fetch@2
 
 ## Requirements
 
+- Must Have **Nodejs**.
 - Must Contain - **Excel file with name input.xlsx**.
 - Header Excel Must Contain - **Link**. - Short Link Google Maps
 - Header Excel Must Contain - **Longtitude**.
